@@ -1,0 +1,6 @@
+{
+    "env_variables": {
+      "rsb_url": "https://robotsparebinindustries.com/#/robot-order",
+      "orders_url": "https://robotsparebinindustries.com/orders.csv"
+    }
+  }
